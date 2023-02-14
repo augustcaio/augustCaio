@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/augustCaio/5780c528ca8317f1f42e99d897a0b7e5/raw/bc592801094c57096a5337c9923edc25b874b663/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/augustCaio/5780c528ca8317f1f42e99d897a0b7e5/raw/36e6bb5d21c78d5df0865386ee4ef27ef3fe43a2/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Augusto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustCaio&color=blue" alt="Profile views" /> </p>
 
@@ -20,4 +20,23 @@
 -->
 
 <br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="mailto:caioaugusto930@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Email-05122A?style=flat&logo=gmail" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/caio-augusto-a40698203/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Caio Augusto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/augusto.caio.augusto/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Caio Augusto-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://wa.me/5581986929931" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+</p>
+
+<!--
 
