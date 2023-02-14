@@ -14,7 +14,7 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="510em" src="https://github-readme-stats.vercel.app/api?username=augustCaio&layout=compact&show_icons=true&theme=graywhite" alt="augustCaio's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=augustCaio&layout=compact&show_icons=true&theme=graywhite" alt="augustCaio's stats"/>
 </p>
 -->
 
