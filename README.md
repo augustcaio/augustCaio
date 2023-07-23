@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/augusto.caio.augusto/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Caio Augusto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://wa.me/5581986929931" target="_blank">
+<a href="https://wa.me/5581996956624" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Whatsapp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
 </p>
