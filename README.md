@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Eu sou o Caio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+design;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Fullstack;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia,+design+e+inovação;Sempre+em+busca+de+novos+desafios+e+aprendizados!" alt="Typing SVG" />
 </p>
-
 
 ---
 
