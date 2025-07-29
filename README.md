@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante e desenvolvedor fullstack apaixonado por tecnologia, design e jogos de RPG.  
+🎓 Desenvolvedor fullstack apaixonado por tecnologia, design e jogos de RPG.  
 💡 Crio projetos com foco em usabilidade, escalabilidade e estética.  
 📚 Em constante evolução, sempre aprendendo algo novo.  
 🎯 Atualmente trabalhando em APIs RESTful com FastAPI e aplicações frontend com Angular.
@@ -55,15 +55,6 @@
 | 🧙‍♂️ API D&D 5e         | Uma API REST completa com todo o conteúdo traduzido do Livro do Jogador de D&D 5e | [🔗 Repositório](https://github.com/augustCaio/dnd_api)            |
 | 🔍 GitHub Profile API | API em Python com FastAPI para obter dados de qualquer perfil do GitHub           | [🔗 Repositório](https://github.com/augustCaio/github-profile-api) |
 | 🖥️ Portfólio Angular  | Um portfólio moderno em Angular que consome dados da minha API                    | [🔗 Em breve](#)                                                   |
-
----
-
-## 📜 Certificados e Conquistas
-
-🏅 **Rocketseat Discover** — Fundamentos do desenvolvimento web  
-🏅 **Dev em Dobro** — Formação Front-end e Fullstack  
-🏅 **Curso em Vídeo** — Python e Git/GitHub  
-🏅 **Certificados da Udemy** — FastAPI, APIs REST e Banco de Dados
 
 ---
 
