@@ -1,8 +1,9 @@
-<h1 align="center">Olá, eu sou o Caio Augusto 👋</h1>
+<h1 align="center">Olá! Eu sou o Caio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+design;Criando+soluções+com+impacto+real;Sempre+em+busca+de+novos+desafios!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia+e+design;Sempre+aprendendo+coisas+novas!" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -63,8 +64,6 @@
 🏅 **Dev em Dobro** — Formação Front-end e Fullstack  
 🏅 **Curso em Vídeo** — Python e Git/GitHub  
 🏅 **Certificados da Udemy** — FastAPI, APIs REST e Banco de Dados
-
-> _(Você pode adicionar links ou imagens se quiser deixar visual.)_
 
 ---
 
