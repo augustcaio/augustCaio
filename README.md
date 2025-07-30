@@ -81,12 +81,10 @@
 ## 🐍 Jogo da Cobra das Contribuições
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </p>
+
+> 💡 **Dica**: A animação é gerada automaticamente pelo GitHub Actions. Se você não vê a cobra ainda, aguarde alguns minutos ou execute o workflow manualmente na aba "Actions" do repositório.
 
 ---
 
