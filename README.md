@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack;Formado+em+Análise+e+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+design;Sempre+em+busca+de+novos+desafios;E+aprendizados" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🚀 Sobre mim
@@ -75,6 +74,18 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustCaio&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustCaio&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 🐍 Jogo da Cobra das Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
 </p>
 
 ---
