@@ -1,6 +1,6 @@
 # <img src="wave.svg" width="40" alt="wave"> Hello, I'm Caio
 
-**[🇺🇸](index.html) | [🇧🇷](index.html)**
+<img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20" alt="USA"> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20" alt="Brazil">
 
 Full Stack Developer focused on JavaScript/TypeScript, React and Node.js.
 
