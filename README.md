@@ -11,7 +11,4 @@ Full Stack Developer focused on building high-performance and scalable applicati
 **Mobile:** Flutter, Android Studio  
 **Others:** Docker, Git, Linux
 
-## Contact
-
 - <a href="https://www.linkedin.com/in/augustcaio/" target="_blank">LinkedIn</a>
-- <a href="https://github.com/augustcaio" target="_blank">GitHub</a>
