@@ -13,5 +13,5 @@ Full Stack Developer focused on building high-performance and scalable applicati
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/augustcaio/)
-- [GitHub](https://github.com/augustcaio)
+- <a href="https://www.linkedin.com/in/augustcaio/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/augustcaio" target="_blank">GitHub</a>
