@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    (function() {
+      const lang = navigator.language || navigator.userLanguage;
+      const isPortuguese = lang.startsWith('pt');
+      
+      if (isPortuguese) {
+        window.location.href = 'README.pt-BR.md';
+      } else {
+        window.location.href = 'README.md';
+      }
+    })();
+  </script>
+</head>
+<body>
+  <p>Redirecting...</p>
+</body>
+</html>

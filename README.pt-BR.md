@@ -1,6 +1,6 @@
 # <img src="wave.svg" width="40" alt="wave"> Olá, eu sou o Caio
 
-**[🇺🇸](./README.md) | [🇧🇷](./README.pt-BR.md)**
+**[🇺🇸](index.html) | [🇧🇷](index.html)**
 
 Desenvolvedor Full Stack com foco em JavaScript/TypeScript, React e Node.js.
 
