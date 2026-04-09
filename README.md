@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg" width="20" alt="USA"> <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20" alt="Brazil">
 
-Full Stack Developer focused on JavaScript/TypeScript, React and Node.js.
+Full Stack Developer focused on building high-performance and scalable applications.
 
 ## Tech Stack
 
