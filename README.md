@@ -11,12 +11,6 @@ Full Stack Developer focused on building high-performance and scalable applicati
 **Mobile:** Flutter, Android Studio  
 **Others:** Docker, Git, Linux
 
-## Activity Timeline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/augustcaio/augustcaio/output/github-contribution-grid-snake.svg" alt="Activity Graph" />
-</p>
-
 <a href="https://www.linkedin.com/in/augustcaio/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
