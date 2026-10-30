@@ -8,7 +8,7 @@
 
 I'm a full stack developer from Brazil. I build web applications with TypeScript and Python, and in my spare time I write tools for things I use every day, from a Linux driver for my motherboard's RGB to an overlay app for streaming Tibia.
 
-<!-- TODO: uma linha sobre o trabalho atual. Ex.: "Currently building <produto> at <empresa>, working on <o que você faz>." -->
+Currently working at **Eu Qualifico** as a **Frontend Developer and QA**, handling both the interface and its quality.
 
 **Languages:** English · Português
 
